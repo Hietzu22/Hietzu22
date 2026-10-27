@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hietzu22
 - 👀 I’m interested in playing video games and coding
-- 🌱 I’m currently studying coding at Esedu
+- 🌱 I’m currently studying information technologies at XAMK
 - 📫 If you want to reach out, please contact me through my discord (Hietzu22#2967)
 
 <!---
